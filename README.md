@@ -13,7 +13,7 @@
 | Swap Nodes [Algo] | https://www.hackerrank.com/challenges/swap-nodes-algo/problem |
 | Self Balancing Tree | https://www.hackerrank.com/challenges/self-balancing-tree/problem |
 | Sparse Arrays | https://www.hackerrank.com/challenges/sparse-arrays/problem |
-|  |  |
+| Balanced Brackets | https://www.hackerrank.com/challenges/balanced-brackets/problem |
 |  |  |
 |  |  |
 |  |  |
