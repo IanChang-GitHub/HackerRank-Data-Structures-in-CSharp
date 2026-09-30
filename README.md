@@ -15,7 +15,7 @@
 | Sparse Arrays | https://www.hackerrank.com/challenges/sparse-arrays/problem |
 | Balanced Brackets | https://www.hackerrank.com/challenges/balanced-brackets/problem |
 | Down to Zero II | https://www.hackerrank.com/challenges/down-to-zero-ii/problem |
-|  |  |
+| Castle on the Grid | https://www.hackerrank.com/challenges/castle-on-the-grid/problem |
 |  |  |
 |  |  |
 
